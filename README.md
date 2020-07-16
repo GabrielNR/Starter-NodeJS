@@ -1,2 +1,2 @@
 # Starter-NodeJS
-Iniando co NodeJS
+Iniciando co NodeJS
